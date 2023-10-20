@@ -1,5 +1,6 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
-  <router-view></router-view>
+  <div>文章详情页</div>
 </template>
 
 <script>
@@ -18,5 +19,5 @@ export default {
   }
 }
 </script>
-<style scoped lang=''>
+<style scoped lang='less'>
 </style>
